@@ -1,4 +1,2 @@
-# hello-world
-ggggggggg hhhhhhhhhhhh
+# Искуственный интеллект тест
 
-Ты по русски понимаешь?
